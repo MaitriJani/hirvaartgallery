@@ -5,7 +5,7 @@
 
 #heading{
     font-family: 'Great Vibes', cursive;
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
     
 }
@@ -36,7 +36,7 @@ body{
 
 #navbar a{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 30px;
     font-family: 'poppins';
    
 }
@@ -48,7 +48,7 @@ h1{
     font-family: 'Poppins', sans-serif;
     border-bottom: black solid 1px ;
     width: 500px;
-    margin-left: 33%;
+    
 }
 
 
