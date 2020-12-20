@@ -55,7 +55,7 @@ h1{
 
 @media (max-width: 599px){
     h1{
-        font-size: 20px;
+        font-size: 25px;
         width: 250px;
     margin-left: 24%;
     }
@@ -80,7 +80,7 @@ h1{
     text-align: center;
     font-family: 'Andika New Basic', sans-serif;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 @media (max-width: 599px){
@@ -134,6 +134,7 @@ footer{
     background-color: blanchedalmond;
     background-size: 40em;
     font-size: 18px;
+    line-height: 1.5em;
 
     
 }
@@ -154,7 +155,7 @@ footer{
 @media (max-width: 599px){
     #travel{
         background-size: 30em;
-    font-size: 15px;
+    font-size: 18px;
 
     }
 
@@ -206,7 +207,7 @@ footer{
 @media (max-width: 599px){
     #bake{
     margin: 0;
-    font-size: 15px;
+    font-size: 18px;
 
 
     }
@@ -293,7 +294,7 @@ footer{
     text-align: right;
     margin-right: 25px;
     font-family: "poppins";
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
 }
 
