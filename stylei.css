@@ -10,7 +10,7 @@
 
 #heading a{
     text-decoration: none;
-    color: rgb(251, 203, 98);
+    color: #e5383b;
     width: 100%;
 }
 
@@ -60,7 +60,7 @@ div h1{
 span{
     font-family: "Great vibes";
     font-size: 50px;
-    color: rgb(251, 203, 98);
+    color: #e5383b;
     text-decoration: underline;
     font-weight: 100;
 }
