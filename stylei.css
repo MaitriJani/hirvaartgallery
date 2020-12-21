@@ -9,7 +9,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-  body {
+  #heading {
     font-size: 45px;
   }
 }
