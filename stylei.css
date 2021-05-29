@@ -86,6 +86,7 @@ footer{
 @media (max-width:600px) {
         .container{
           display: flex;
+          flex-wrap: no-wrap;
           flex-direction: column;
           justify-content: center;
           align-items: center;
