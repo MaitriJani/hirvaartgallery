@@ -60,7 +60,9 @@ flex-wrap: wrap;
               }
 
 img{
-  width: 50%;
+  width: 300px;
+  padding-bottom: 30px;
+  margin: 30px;
 }
 
 figcaption
@@ -91,6 +93,9 @@ footer{
           align-items: center;
 
         }
+  img{
+  width: 50%;
+  }
         #heading {
           font-size: 45px;
         }
