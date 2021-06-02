@@ -83,7 +83,7 @@ footer{
     color: #f1faee;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 768px) {
     div{
         padding: 10%;
         
