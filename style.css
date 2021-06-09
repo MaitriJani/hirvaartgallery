@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Great+Vibes&display=swap');
+
+/* colors: red: #e63946
+        white: #f1faee
+        lblue: #a8dadc
+        mblue: #457b9d
+        dblue: #1d3557 */
+
+
+body{
+    background-color:#f1faee;
+    background-image: url('img/bg.jpg');
+    background-size: cover;
+
+}
+
+header{
+    font-family:Great Vibes;
+    text-align: center;
+    font-size: 5em;
+    padding-top: 20px;
+    color:white;
+}
+/* h4{
+    color:  #a8dadc;
+    font-size: 3em;
+    text-align: center;
+}
+.showcase{
+    
+    background-color: #457b9d;
+    margin-top: 20px;
+
+    padding-top: 10px;
+}
+
+.content-about{
+    padding: 10px 200px;
+    display: inline-flex;
+    margin: 10px;
+    width: auto;
+    color: #f1faee;
+}
+    .content-about p{
+        width: 40%;
+    }
+    .content-about img{
+        margin-left: 20%;
+        width: 45%;
+    } */
+.grid{
+    padding: 50px 200px;
+}
+
+.photo-grid-container{
+    column-count: 5;
+    column-width: 200px;
+    column-gap: 10px;
+    width: 100%;
+    max-width: 1600px;
+    margin: auto;
+    padding-top: 5%;
+}
+.photo-grid-item{
+    margin: 0 auto 5px;
+    width: 100%;
+    transition: .5s;
+}
+.photo-grid-item:hover{
+    margin: 0 auto 5px;
+    width: 100%;
+    transform: scale(1.2);
+    filter: grayscale();
+}
+
+footer{
+    text-align: center;
+    font-size: 3em;
+    font-family: monospace;
+  /* background-color:  #1d3557 ; */
+    height: 100px;
+    padding-top: 5%;
+    color: #f1faee;
+}
+
+@media (max-width: 500px) {
+    div{
+        padding: 10%;
+        
+    }
+    header{
+    font-size: 3em;
+
+    }
+}
